@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+.uno{
+    padding: 5vh;
+    color: white;
+    font-family: cursive;
+    font-size: 3.3vh;
+    font-weight: 300;
+}
+
+.dos{
+    text-shadow: 32px;
+    background-color: rgba(255, 208, 0, 0.699);
+    border-color: white;
+    color: white;
+    padding: 0.1vh;
+}
